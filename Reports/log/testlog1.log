@@ -1,0 +1,487 @@
+2018-05-30 17:53:21,483 [main] INFO TestBase.TestBase - TestCases.TC_001_LogIn test started
+2018-05-30 17:53:22,245 [main] INFO TestBase.TestBase - Input Text: admin - By.name: user_name
+2018-05-30 17:53:22,343 [main] INFO TestBase.TestBase - Input Text: password - By.name: user_password
+2018-05-30 17:53:29,183 [main] INFO TestBase.TestBase - Click: By.id: submitButton
+2018-05-30 17:56:18,743 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 17:56:19,518 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 17:56:19,651 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 17:56:19,761 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 17:56:19,958 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 17:56:20,077 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 17:56:23,194 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-05-30 18:09:24,704 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 18:09:25,508 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 18:09:25,640 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 18:09:25,739 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 18:09:25,921 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 18:09:26,040 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 18:09:29,169 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-05-30 18:10:06,954 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 18:10:07,635 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 18:10:07,775 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 18:10:07,878 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 18:10:08,061 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 18:10:08,194 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 18:10:11,318 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-05-30 18:12:15,732 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 18:12:16,469 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 18:12:16,599 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 18:12:16,708 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 18:12:16,904 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 18:12:17,021 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 18:12:20,135 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-05-30 18:18:04,478 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 18:18:05,244 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 18:18:05,382 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 18:18:05,489 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 18:18:05,676 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 18:18:05,799 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 18:18:08,920 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-05-30 18:19:36,710 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-05-30 18:19:37,299 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-05-30 18:19:37,479 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-05-30 18:19:37,592 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-05-30 18:19:37,769 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-05-30 18:19:37,884 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-05-30 18:19:41,012 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 10:58:38,009 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 10:58:39,018 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 10:58:39,222 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 10:58:39,386 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 10:58:39,653 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 10:58:39,841 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 10:58:43,001 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 10:58:59,103 [main] INFO TestBase.TestBase - Click: By.xpath: (//span[@class='mdl-button__ripple-container'])[2]
+2018-06-01 11:01:18,484 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:01:19,269 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:01:19,492 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:01:19,691 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:01:20,038 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:01:20,229 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:01:23,409 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:02:33,486 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:02:33,751 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:02:34,666 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:02:34,756 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:02:35,038 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:02:35,102 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:02:35,313 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:02:35,357 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:02:35,873 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:02:35,918 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:02:36,188 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:02:36,204 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:02:39,382 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:02:39,763 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:03:38,216 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:03:39,061 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:03:39,261 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:03:39,473 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:03:39,737 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:03:39,949 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:03:43,132 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:12:48,092 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:12:49,088 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:12:49,300 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:12:49,461 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:12:49,741 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:12:49,913 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:12:53,084 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:13:35,632 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="tnc-container"]/div[2]/a/span
+2018-06-01 11:18:46,992 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:18:47,834 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:18:48,030 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:18:48,190 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:18:48,458 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:18:48,650 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:18:51,838 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 11:27:10,109 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 11:27:10,988 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 11:27:11,192 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 11:27:11,372 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 11:27:11,644 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 11:27:11,840 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 11:27:15,020 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:02:06,040 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:02:07,642 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:02:07,838 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:02:07,998 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:02:08,266 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:02:08,450 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:02:11,629 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:09:13,119 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:09:14,097 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:09:14,289 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:09:14,449 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:09:14,761 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:09:14,937 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:09:18,108 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:21:21,951 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:21:23,146 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:21:23,352 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:21:23,520 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:21:23,804 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:21:23,992 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:21:27,165 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:22:13,053 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:22:13,918 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:22:14,138 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:22:14,319 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:22:14,591 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:22:14,791 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:22:17,984 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:33:23,062 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:33:23,943 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:33:24,147 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:33:24,312 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:33:24,591 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:33:24,775 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:33:27,969 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:34:38,160 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:34:38,988 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:34:39,180 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:34:39,342 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:34:39,606 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:34:39,806 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:34:42,989 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:35:53,874 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:35:54,809 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:35:55,033 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:35:55,203 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:35:55,463 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:35:55,635 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:36:39,235 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:36:39,963 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:36:40,179 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:36:40,339 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:36:40,606 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:36:40,774 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:36:43,950 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:40:33,812 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:40:34,793 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:40:35,009 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:40:35,165 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:40:35,432 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:40:35,604 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:40:38,779 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:45:33,236 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:45:33,810 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:45:33,946 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:45:34,058 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:45:34,246 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:45:34,374 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:45:37,511 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:47:43,976 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:47:45,044 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:47:45,259 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:47:45,390 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:47:45,628 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:47:45,747 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:48:36,782 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:48:37,812 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:48:37,944 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:48:38,055 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:48:38,244 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:48:38,374 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:48:41,492 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 12:54:24,918 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:54:27,386 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:54:27,542 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:54:27,655 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:54:27,839 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:54:27,950 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:55:11,111 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:55:12,412 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:55:12,566 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:55:12,684 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:55:12,868 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:55:12,993 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:55:49,511 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:55:50,935 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:55:51,082 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:55:51,200 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:55:51,397 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:55:51,521 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:56:18,451 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:56:20,395 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:56:20,546 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:56:20,664 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:56:20,886 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:56:21,032 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 12:57:47,791 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 12:57:49,663 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 12:57:49,811 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 12:57:49,923 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 12:57:50,106 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 12:57:50,226 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 13:01:50,083 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 13:02:02,826 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 13:02:02,982 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 13:02:03,090 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 13:02:03,274 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 13:02:03,392 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 13:05:00,995 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 13:05:01,934 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 13:05:02,086 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 13:05:02,188 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 13:05:02,374 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 13:05:02,517 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 13:10:11,217 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 13:10:12,176 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 13:10:12,315 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 13:10:12,428 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 13:10:12,633 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 13:10:12,777 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 13:10:15,894 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 13:59:30,749 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 13:59:31,511 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 13:59:31,637 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 13:59:31,751 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 13:59:31,934 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 13:59:32,059 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 13:59:35,180 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 13:59:35,846 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="dvTerms"]/div/div/div[3]/a/span
+2018-06-01 14:00:46,094 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:00:47,184 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:00:47,307 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:00:47,407 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:00:47,599 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:00:47,723 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:00:50,847 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:00:51,514 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="dvTerms"]/div/div/div[3]/a/span
+2018-06-01 14:01:06,383 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:01:06,995 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:01:07,131 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:01:07,247 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:01:07,431 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:01:07,562 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:01:10,696 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:01:11,358 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="dvTerms"]/div/div/div[3]/a/span
+2018-06-01 14:04:50,756 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:04:51,548 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:04:51,684 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:04:51,800 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:04:51,982 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:04:52,142 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:04:55,280 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:06:29,625 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:06:30,490 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:06:30,624 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:06:30,732 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:06:30,911 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:06:31,039 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:06:34,161 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:07:32,972 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="tnc-container"]/div[2]/a/span
+2018-06-01 14:09:29,515 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:09:30,344 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:09:30,480 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:09:30,588 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:09:30,779 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:09:30,899 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:09:34,032 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:15:59,376 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:16:00,178 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:16:00,198 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:16:00,478 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:16:00,639 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:16:00,830 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:16:01,142 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:16:01,498 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:16:01,646 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:16:01,678 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:16:01,929 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:16:01,933 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:16:02,135 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:16:02,163 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:16:02,466 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:16:02,478 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:16:02,678 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:16:02,694 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:16:04,628 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:16:05,850 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:17:05,147 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:17:05,961 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:17:06,105 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:17:06,213 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:17:06,451 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:17:06,606 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:18:02,605 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:18:03,242 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:18:03,362 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:18:03,478 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:18:03,658 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:18:03,780 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:18:06,911 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:18:43,140 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="tnc-container"]/div[2]/a/span
+2018-06-01 14:19:46,072 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:19:46,760 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:19:46,900 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:19:47,016 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:19:47,200 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:19:47,333 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:19:50,477 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:26:44,754 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:26:45,859 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:26:46,010 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:26:46,130 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:26:46,342 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:26:46,478 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:27:33,721 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:27:34,915 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:27:35,063 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:27:35,171 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:27:35,367 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:27:35,491 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:28:41,314 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:28:42,154 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:28:42,294 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:28:42,410 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:28:42,612 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:28:42,756 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:29:30,935 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:29:33,379 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:29:33,554 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:29:33,670 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:29:33,850 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:29:33,966 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:33:56,535 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:33:57,294 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:33:57,442 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:33:57,566 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:33:57,757 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:33:57,877 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:34:56,242 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:34:57,196 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:34:57,332 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:34:57,442 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:34:57,630 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:34:57,770 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:35:00,900 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:36:01,868 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="tnc-container"]/div[2]/a/span
+2018-06-01 14:44:20,810 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:44:22,478 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:44:22,623 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:44:22,743 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:44:22,927 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:44:23,059 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:44:56,419 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:44:57,146 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:44:57,277 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:44:57,385 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:44:57,573 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:44:57,700 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:45:00,829 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:48:09,209 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:48:12,263 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:48:12,414 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:48:12,526 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:48:12,714 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:48:12,842 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:48:50,265 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:48:51,166 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:48:51,305 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:48:51,424 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:48:51,620 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:48:51,756 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:49:37,485 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:49:38,197 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:49:38,337 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:49:38,445 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:49:38,609 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:49:38,738 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:52:09,626 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:52:10,635 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:52:10,780 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:52:10,896 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:52:11,091 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:52:11,207 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:52:46,569 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:52:47,280 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:52:47,420 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:52:47,540 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:52:47,740 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:52:47,875 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:52:51,006 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:55:31,233 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:55:31,850 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:55:31,986 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:55:32,110 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:55:32,302 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:55:32,416 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:55:35,536 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 14:55:42,515 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="tnc-container"]/div[2]/a/span
+2018-06-01 14:55:44,685 [main] INFO TestBase.TestBase - Click: By.id: cphContents_btnSubmit
+2018-06-01 14:57:14,570 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:57:16,207 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:57:16,359 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:57:16,479 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:57:16,679 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:57:16,803 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:58:23,047 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 14:58:23,780 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 14:58:23,916 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 14:58:24,032 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 14:58:24,224 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 14:58:24,343 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 14:58:27,488 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 15:00:22,039 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:00:22,864 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:00:23,016 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:00:23,132 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:00:23,318 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:00:23,454 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:01:01,771 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:01:02,956 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:01:03,102 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:01:03,218 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:01:03,402 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:01:03,542 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:02:49,935 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:02:50,763 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:02:50,899 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:02:51,007 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:02:51,198 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:02:51,326 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:02:54,449 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 15:04:36,318 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:04:37,387 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:04:37,562 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:04:37,702 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:04:37,962 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:04:38,110 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:04:41,271 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 15:05:42,220 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:05:42,946 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:05:43,130 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:05:43,278 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:05:43,548 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:05:43,716 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:05:46,876 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 15:08:16,596 [main] INFO TestBase.TestBase - TestCases.TCSignupPaymate test started
+2018-06-01 15:08:19,888 [main] INFO TestBase.TestBase - Click: By.xpath: //*[@id="UpnlHome"]/div[6]/div/div[1]/a
+2018-06-01 15:08:20,012 [main] INFO TestBase.TestBase - Input Text: suryateja - By.id: txtFirstName
+2018-06-01 15:08:20,116 [main] INFO TestBase.TestBase - Input Text: gurram - By.id: txtLastName
+2018-06-01 15:08:20,308 [main] INFO TestBase.TestBase - Input Text: gurram.suryateja@gmail.com - By.id: txtEmailaddress
+2018-06-01 15:08:20,428 [main] INFO TestBase.TestBase - Input Text: 9553950149 - By.id: txtMobileno
+2018-06-01 15:08:23,544 [main] INFO TestBase.TestBase - Click: By.cssSelector: #cphContents_pnlContents > div:nth-child(7) > div > label > span:nth-child(8)
+2018-06-01 15:08:30,936 [main] INFO TestBase.TestBase - Click: By.id: cphContents_btnSubmit
+2018-06-11 16:10:03,435 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:12:15,162 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:15:56,971 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:16:22,991 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:17:40,561 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:18:54,927 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:19:20,049 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:24:32,166 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:25:01,064 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:25:33,345 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:26:42,326 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:30:35,570 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2018-06-11 16:32:01,727 [main] INFO TestBase.TestBase - TestCases.TC_Andhrabank test started
+2020-02-06 14:50:35,086 [main] INFO TestBase.TestBase - TestCases.TC_Plative_salesforce_login test started
+2020-02-06 18:19:28,219 [main] INFO TestBase.TestBase - TestCases.TC_Plative_salesforce_login test started
+2020-02-06 18:19:29,410 [main] INFO TestBase.TestBase - Input Text: operations@plative.com.partial - By.id: username
+2020-02-06 18:19:29,573 [main] INFO TestBase.TestBase - Input Text: Pl@t!v3! - By.id: password
+2020-02-06 18:19:35,616 [main] INFO TestBase.TestBase - Click: By.id: Login
+2020-02-06 18:19:47,050 [main] INFO TestBase.TestBase - Click: By.xpath: (//*[@class= 'tooltipTrigger tooltip-trigger uiTooltip'])[5]/span[1]/div/span
+2020-02-06 18:19:52,478 [main] INFO TestBase.TestBase - Click: By.xpath: (//*[@class= 'profile-card-indent'])/h1/a
